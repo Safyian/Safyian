@@ -1,112 +1,128 @@
-# 👋 Hi, I'm SafYian
+# 👋 Hi, I'm Mirza Sufian
 
-Senior Mobile Engineer with 2+ years of hands-on experience building **production-grade Flutter applications** and **full-stack backends**.  
-I specialise in **high-performance mobile apps**, clean architecture, and real-world payment & API integrations.
+Senior Mobile Application Developer specialising in **Flutter** with 3+ years of experience building and shipping **production iOS & Android applications** across eCommerce and marketplace domains.
+
+I focus on **clean architecture**, performance, and real-world delivery — from UI to backend integration and app store releases.
 
 ---
 
 ## 🚀 What I Do
-- 📱 Build scalable iOS & Android apps using **Flutter**
-- 🧠 Design clean, maintainable architectures (GetX, modular code)
-- 🌐 Develop secure backends using **Node.js, Express & MongoDB**
+- 📱 Build scalable Flutter apps for iOS & Android
+- 🧠 Architect maintainable codebases using GetX
+- 🌐 Develop secure backends with Node.js & MongoDB
 - 💳 Integrate payment systems (Stripe, Braintree)
-- 🛠️ Ship real products used by real users
+- 🛠️ Deliver production-ready mobile products end-to-end
 
 ---
 
 ## 🧰 Tech Stack
 
-**Mobile**
+### Mobile
 - Flutter (Dart)
-- Android & iOS
+- iOS & Android
 - Responsive UI, animations
-- App Store & Play Store deployments
+- App Store & Google Play releases
 
-**State Management**
+### State Management
 - GetX (Primary)
 - Provider, BLoC (Exposure)
 
-**Backend**
+### Backend & APIs
 - Node.js, Express.js
 - MongoDB, Mongoose
-- REST APIs, JWT (Access & Refresh Tokens)
+- REST & GraphQL APIs
+- JWT (Access & Refresh Tokens)
 
-**Payments & Services**
+### Payments & Services
 - Stripe
 - Braintree
-- Firebase (Auth, Firestore, FCM)
+- Firebase (Auth, Firestore, Cloud Functions, FCM)
 
-**Data & Storage**
-- SQLite (SQFLite)
+### Data & Storage
+- SQFLite
 - SharedPreferences
 
-**Tools**
+### Tools & Practices
 - Git & GitHub
 - Postman
 - Agile / Scrum
+- Debugging & performance optimisation
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔥 Krunchilli Marketplace (Flutter)
-Role-based eCommerce app for consumers, retailers & wholesalers  
-**Features:**
-- Product listing & cart (SQLite)
+### 🛒 Inspire Uplift – Global eCommerce App
+Production Flutter app serving customers globally.
+
+**Key Contributions**
+- End-to-end Flutter development (UI → API → release)
+- REST & GraphQL API integration
+- Braintree payments & social authentication
+- Improved stability via refactoring and crash fixes
+
+**Tech:** Flutter, GetX, REST, GraphQL, SQFLite, Braintree  
+📱 Available on Google Play & App Store
+
+---
+
+### 🌶️ Krunchilli Marketplace & Store Central
+Multi-role marketplace and admin platform built as part of my Master’s project.
+
+**Features**
+- Role-based ordering (consumers, retailers, wholesalers)
 - Stripe payments
-- Order tracking & history
-- Admin & merchant flows
+- Admin dashboard for orders, stock & sales
+- Local cart persistence
 
-> Tech: Flutter, GetX, REST APIs, Stripe, SQLite
-
----
-
-### 🔧 Krunchilli Store Central (Admin App)
-Admin dashboard for managing products, orders & stock  
-**Features:**
-- Order fulfilment
-- Sales dashboards
-- Merchant management
-- Stock tracking
-
-> Tech: Flutter, REST APIs
+**Tech:** Flutter, GetX, REST APIs, Stripe, SQFLite
 
 ---
 
-### 💸 Splitify (Node.js + MongoDB)
-Expense sharing backend (Splitwise-style app)  
-**Features:**
-- JWT authentication (access & refresh tokens)
-- Secure user flows
+### 💸 Splitify – Expense Sharing Backend (In Progress)
+Backend system for a Splitwise-style application.
+
+**Features**
+- User, group & expense management
+- Secure JWT authentication (access & refresh tokens)
 - MongoDB data modelling
 
-> Tech: Node.js, Express, MongoDB, JWT
+**Tech:** Node.js, Express.js, MongoDB, JWT, bcrypt
+
+---
+
+### ☕ Coffee Mate App
+Mobile app designed to streamline café ordering experiences.
+
+**Features**
+- Menu browsing & order customisation
+- Stripe payments
+- Smooth animations & responsive UI
+
+**Tech:** Flutter, GetX, SQFLite, Stripe, Firebase
 
 ---
 
 ### 🔁 Let’s Exchange App
-Marketplace app for buying, selling & exchanging items  
-**Features:**
+Marketplace app for selling, exchanging and bidding on products.
+
+**Features**
 - Product listings with images
-- Chat & bidding system
-- Exchange & purchase flows
+- Real-time chat
+- Bidding system for high-interest items
 
-> Tech: Flutter, Firebase, APIs
-
----
-
-## 🧠 How I Work
-- Clean, readable code over hacks
-- Performance & scalability first
-- Production mindset (not tutorial code)
-- Strong focus on UX & reliability
+**Tech:** Flutter, Firebase, SQFLite, GetX
 
 ---
 
-## 📫 Let’s Connect
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
-- Email: your@email.com
+## 🧠 Engineering Mindset
+- Clean, readable, maintainable code
+- Production > tutorials
+- Performance & reliability first
+- Strong debugging & problem-solving focus
 
 ---
 
-⭐️ If you're a recruiter or hiring manager — feel free to explore my repositories below.
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/mirza-sufian
+- Email: safyianmughal1236@gmail.com
